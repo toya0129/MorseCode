@@ -1,7 +1,7 @@
 # MorseCode
 
 # Development
-This system is developed with openFrameworks.
+This system is developed with openFrameworks. (C++)
 
 # Equipment
 PC ( Mac )
